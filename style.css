@@ -87,3 +87,12 @@
     width: 100%;
 
 }
+
+#but{
+    padding: 5px ;
+    background-color: rgb(153, 57, 57);
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    display: none;
+}
